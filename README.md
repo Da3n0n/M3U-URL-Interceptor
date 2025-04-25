@@ -1,4 +1,4 @@
-Simple Chrome Extension for Simply Getting and copying the first m3u Get request URL from any webpage pages with live video player emebdded
+Simple Chrome Extension for Simply Getting and copying the first m3u Get request URL from any webpage with a live video player emebdded
 
 this is Usefule for Getting a VRC compatible Live link from nearly any webpage.
 
