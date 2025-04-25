@@ -1,6 +1,10 @@
 Simple Chrome Extension for Simply Getting and copying the first m3u Get request URL from any webpage with a live video player embedded
 
-this is Useful for Getting a VRC compatible Live link from nearly any webpage.
+first of all you can achieve what this extension achives by  opening Devtools (f12) > go to Network activity > search m3u > snipe the first GET Reqeuest M3U URL fomrthe list of results . 
+
+so why make this ? because you cant copy and paste or select the ulr form devtools inisde VR on Virtual Desktop , so this has been made so you can easily switch links within Virtual Desktop inside VR , instead of the process dev tool > network > search > Copy  etc jsut open extension and click button :)  
+
+this is Useful for Getting a VRC compatible Live link URLS from nearly any webpage with emebedded video players.
 
 1 .Load Extension
 
