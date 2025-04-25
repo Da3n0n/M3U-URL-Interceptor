@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "M3U URL Interceptor",
+  "version": "1.0",
+  "description": "Captures and displays the first M3U GET request URL for easy copying.",
+  "permissions": ["webRequest"],
+  "host_permissions": ["*://*/*"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "web_accessible_resources": [{
+    "resources": ["icons/*"],
+    "matches": ["*://*/*"]
+  }]
+} 
