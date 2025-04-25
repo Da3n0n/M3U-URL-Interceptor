@@ -4,7 +4,7 @@ first of all you can achieve what this extension achives by  opening Devtools (f
 
 so why make this ? because you cant copy and paste or select the url form devtools inisde VR on Virtual Desktop , so this has been made so you can easily switch links within Virtual Desktop inside VR , instead of the process dev tool > network > search > Copy  etc jsut open extension and click button :)  
 
-this is Useful for Getting a VRC compatible Live link URLS from nearly any webpage with embedded video players.
+this is Useful for Getting a VRC compatible Live link URLS from nearly any webpage with embedded live video player.
 
 1 .Load Extension
 
