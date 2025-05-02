@@ -10,7 +10,7 @@ this is Useful for Getting a VRC compatible Live link URLS from nearly any webpa
 
 2. Go to webpage with Live video 
 
-3. Open Extension on the relvant page with a live video player.
+3. Open Extension on the relevant page with a live video.
 
 4. Copy and Paste the URL form extension into your VRC player
 
