@@ -1,4 +1,4 @@
-Simple Chrome Extension for Simply Getting and copying the first m3u Get request URL from any webpage with a live video player embedded
+Chrome Extension for Simply Getting and copying the first m3u Get request URL from any webpage with a live video player embedded
 
 first of all you can achieve what this extension achives by  opening Devtools (f12) > go to Network activity > search m3u > snipe the first GET Reqeuest M3U URL from the list of results . 
 
